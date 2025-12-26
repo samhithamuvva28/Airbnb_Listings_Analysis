@@ -80,9 +80,4 @@ It is intended to demonstrate:
 - Model selection and evaluation
 - Insight generation for business decisions
 
----
-
-## 📜 License
-
-MIT License (or replace if needed)
 
